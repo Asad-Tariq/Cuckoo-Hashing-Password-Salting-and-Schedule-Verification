@@ -1,0 +1,5 @@
+Selection 0 - Course= CS102: Data Structures and Algorithms; Section= L1
+Selection 1 - Course= CS102: Data Structures and Algorithms; Section= L3
+Selection 2 - Course= CS224: Object Oriented Programming; Section= L3
+Selection 3 - Course= CS201: Data Structures 2; Section= L2
+Selection 4 - Course= CS375: Parallel Programming; Section= L1
