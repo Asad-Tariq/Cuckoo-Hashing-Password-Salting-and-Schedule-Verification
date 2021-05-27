@@ -2,8 +2,7 @@
 Final Project for the Habib University course CS201 - Data Structures II
 
 # Team Information
-Project Team: Sibling-Variables
-
+Project Team: Sibling-Variables <br />
 Members: Fahad Shaikh (05452), Asad Tariq (05439), Fatima Zehra (04316), Neha Valliani (06229)
 
 # Problem & Application 
