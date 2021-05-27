@@ -1,7 +1,8 @@
 # Cuckoo-Hashing-Password-Salting-and-Schedule-Verification
 Final Project for the Habib University course CS201 - Data Structures II
 
-# Project Team: Sibling Variables
+# Team Information
+Project Team: Sibling-Variables
 Members: Fahad Shaikh (05452), Asad Tariq (05439), Fatima Zehra (04316), Neha Valliani (06229)
 
 # Problem & Application 
