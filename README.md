@@ -21,3 +21,6 @@ At the time of login in the future, if the user is already registered, his/her e
 The purpose of this module is to construct a schedule from a particular choice of classes, as selected by the user, from a pool of different classes. There might exist classes that are on the same day with either the exact same timings or overlapping timings. The user should not be allowed to enroll in such classes. We therefore propose an efficient solution to this problem and to implement this solution we make use of Cuckoo Hashing. We store the different classes of the schedule with their respective times as the keys and the details of the classes as the corresponding values in our Hash Table.
 The very fact that our Data Structure does not allow for duplicate keys weeds out all the classes in the hash table that have exactly the same timings on the same days. Now we move on to manually remove overlapping conflicts in the user's proposed schedule to fully verify that no clashes occur.
 The result of our Schedule Verifier is then displayed to the user and indicates to them that whether or not their proposed schedule had conflicts. If it did happen to have conflicts they will be identified specifically to the user.
+
+# Project Demo & Tutorial
+A demonstration and tutorial for the project can be found at the following [link](https://www.youtube.com/watch?v=L7MxKYcqtoM)
